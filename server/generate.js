@@ -2,7 +2,7 @@ const faker = require("faker");
 
 let database = { products: [] };
 
-for (let i = 1; i <= 300; i++) {
+for (let i = 1; i <= 20; i++) {
     database.products.push({
         id: i,
         name: faker.commerce.productName(),
