@@ -2,9 +2,15 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
 
+![](sampleAngularApp.png)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+In other terminal Run `npm run generate` . This will generate fake products data
+
+Then Run `npm run server` . This will start our server at `http://localhost:3000`
 
 ## Code scaffolding
 
