@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "sample-angular-app-49d8e": {
+      "hosting": {
+        "sample-angular-app": [
+          "sample-angular-app-49d8e"
+        ]
+      }
+    }
+  }
+}
